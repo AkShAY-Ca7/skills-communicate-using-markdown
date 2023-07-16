@@ -13,5 +13,8 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
-I added headers of six different sizes from largest to smallest , added an image , added a code example .
+I added headers of six different sizes from largest to smallest , added an image , added a code example ,added a task list .
