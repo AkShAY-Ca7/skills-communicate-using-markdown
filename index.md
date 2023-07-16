@@ -5,4 +5,8 @@
 ##### Header 5
 ###### Header 6
 
-I added headers of six different sizes from largest to smallest.
+# Image of Yaktocat
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+I added headers of six different sizes from largest to smallest , added an image.
