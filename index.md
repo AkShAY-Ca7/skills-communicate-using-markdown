@@ -9,4 +9,9 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-I added headers of six different sizes from largest to smallest , added an image.
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+I added headers of six different sizes from largest to smallest , added an image , added a code example .
